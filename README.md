@@ -14,7 +14,7 @@ This Node.js script automates the process of importing stock transaction data fr
 Before you use this script, ensure you have the following:
 
 - Node.js installed on your machine.
-- An active Ghostfolio account with API access.
+- An active Ghostfolio self hosted instance.
 - An API token from Ghostfolio for authentication.
 - A CSV file exported from the Stocks Tracker app containing your stock transaction data.
 
