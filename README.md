@@ -1,6 +1,6 @@
-# Stocks Tracker to Ghostfolio Importer
+# My Stocks Portfolio CSV to Ghostfolio Importer
 
-This Node.js script automates the process of importing stock transaction data from CSV files exported by the Stocks Tracker app into Ghostfolio. It reads stock transaction records from a CSV file and uses the Ghostfolio API to import each transaction as an activity.
+This Node.js script automates the process of importing stock transaction data from CSV files exported by the [My Stocks Portfolio](https://mystocksportfolio.app/) app into Ghostfolio. It reads stock transaction records from a CSV file and uses the Ghostfolio API to import each transaction as an activity.
 
 ## Features
 
